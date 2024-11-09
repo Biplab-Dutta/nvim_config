@@ -1,2 +1,2 @@
-require('biplab.core')
-require('biplab.lazy')
+require 'biplab.core'
+require 'biplab.lazy'
